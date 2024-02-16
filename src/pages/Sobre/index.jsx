@@ -19,7 +19,9 @@ const Sobre = () => {
           <h2 className={styles.profissao}>Estudante</h2>
           <p className={styles.sobreMim}>
             Olá, me chamo Kelly Emilly, tenho 21 anos, estou em processo de descoberta de carreira e buscando
-            novos conhecimentos.
+            novos conhecimentos. No momento estou bastante interessada na área de tecnologia mais expecificamente
+            na parte de desenvolver sites e descobri isso com o Ciclo Formativo Básico da Pretalab nele aprendi sobre
+            Github, HTML, CSS, Javascript e react. Curti muito essa experiência de aprender com elas, foi muito bom.
               
           </p>
       </div>

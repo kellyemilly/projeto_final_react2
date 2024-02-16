@@ -26,7 +26,7 @@
   
   .nomeCompleto {
     font-size: 36px;
-    color: #e1aedb;
+    color: #e1aedb;;
     font-weight: 700;
     height: 45px;
   }
@@ -41,7 +41,7 @@
   .sobreMim{
     font-size: 20px;
     color: #e1aedb;
-    height: 45px;
+    height: 55px;  
   }
   
   .subtitulo {
