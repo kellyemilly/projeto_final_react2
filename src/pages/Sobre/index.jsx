@@ -18,9 +18,9 @@ const Sobre = () => {
           <h1 className={styles.nomeCompleto}>Kelly Emilly</h1>
           <h2 className={styles.profissao}>Estudante</h2>
           <p className={styles.sobreMim}>
-              Mussum Ipsum, cacilds vidis litro abertis. Suco de cevadiss deixa as pessoas mais interessantis. 
-              Paisis, filhis, espiritis santis. Praesent malesuada urna nisi, quis volutpat erat hendrerit non. 
-              Nam vulputate dapibus. Detraxit consequat et quo num tendi nada.
+            Olá, me chamo Kelly Emilly, tenho 21 anos, estou em processo de descoberta de carreira e buscando
+            novos conhecimentos.
+              
           </p>
       </div>
 
